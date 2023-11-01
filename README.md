@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavansundar
-- 👀 I’m interested in coding and web/application desion
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in coding and web/application design(full stack)
+- 🌱 I’m currently learning... I do not know anything 😅 so everything
 
 <!---
 pavansundar9/pavansundar9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
