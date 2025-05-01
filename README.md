@@ -6,7 +6,7 @@
 
 🔭 **I’m currently working on:** [Food Flow](https://github.com/pavansundar9/FoodFlow)
 
-🌱 **I’m currently learning:** Angular and MEAN Stack
+🌱 **I’m currently learning:** Angular, React Nativ and PL/SQL
 
 ⚡ **Fun fact:** I like using a smaller screen for coding. It feels less overwhelming.
 
